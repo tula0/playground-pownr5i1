@@ -27,3 +27,7 @@ This *mandatory* file describes both the table of content and the programming pr
 # Advanced Tech.io features
 
 Tech.io provides all the tools to make great online hands-on content, quizzes, web consoles, and visual content. Please refer to the [documentation](https://tech.io/doc) to learn more about the possibilities.
+
+
+# Checkout the Dummy App Here:
+@[Sample Angular App Boilerplate]({"stubs": ["src/app/app.module.ts", "src/app/app.component.ts", "src/app/app.component.html"], "command": "./run.sh"})
